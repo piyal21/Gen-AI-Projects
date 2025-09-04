@@ -11,12 +11,7 @@
 - [Overview](#overview)  
 - [🛠 Features](#-features)  
 - [🚀 Quickstart](#-quickstart)  
-- [⚙ How It Works](#-how-it-works)  
-- [✅ Use Cases](#-use-cases)  
-- [📝 Requirements](#-requirements)  
-- [📈 Roadmap](#-roadmap)  
-- [🤝 Contribute](#-contribute)  
-- [📜 License](#-license)
+
 
 ---
 
